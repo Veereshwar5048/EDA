@@ -1,0 +1,30 @@
+XYZ — Machine Learning Prediction Challenge
+RULEBOOK v1.0
+==========================================
+
+1. ELIGIBILITY
+   - Open to all enrolled undergraduate and postgraduate students.
+   - Teams of up to 3 members permitted.
+
+2. SUBMISSION FORMAT
+   - Jupyter Notebook (.ipynb) with full code.
+   - Predictions CSV file.
+   - Short report (max 4 pages PDF).
+
+3. EVALUATION CRITERIA
+   - Technical Score (70%): Model performance on held-out test set.
+   - Presentation Score (30%): Methodology, clarity, insights.
+
+4. RULES
+   - No pre-trained LLMs on competition data.
+   - External public datasets allowed (declare in report).
+   - No sharing of solutions between teams.
+
+5. DEADLINES
+   - Submission: Sep 5, 2026, 23:59 IST
+   - Presentations: Sep 10, 2026
+
+6. CONTACT
+   Email: dac@college.edu
+
+[PLACEHOLDER — Replace this file with the real PDF rulebook]
